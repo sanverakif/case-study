@@ -1,0 +1,9 @@
+A)
+Greenhouse gas emissions can be measured through life cycle assessments or other calculation methods such as carbon accounting.
+Direct greenhouse gas emissions come from sources owned or controlled by the audited and reporting organization. These emissions measurements are also referred to as the Primary Carbon Footprint.
+Energy Indirect greenhouse gas emissions are emissions from sources that are a result of the reporting organization's activities but that are owned or controlled by another legal entity. 
+These measurements are also called Secondary Carbon Footprint.
+B)
+1. Covering incoming direct emissions that turn out to be owned or controlled by a company.
+2. Emissions caused by a company as a share of the energy production it imports or buys and uses.
+3. It includes all other indirect emissions that occur in the value chain that are not the result of activities from assets not produced, owned or controlled by the company itself.

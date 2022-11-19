@@ -1,0 +1,49 @@
+const axios = require("axios")
+
+//fetch
+// const baseUrl = "https://jsonplaceholder.typicode.com/posts"
+// let dataControl;
+
+// function responseStatus(res) {
+//     if (res.status === 200) {
+//         console.log("başarılı", res.ok)
+//         return res
+//     } else {
+//         console.log("başarısız", res.ok)
+//         return res
+//     }
+// }
+
+// function jsonParse(data) {
+//     return data.json()
+// }
+
+// function getData() {
+//     fetch(baseUrl)
+//         .then(responseStatus)
+//         .then(jsonParse)
+//         .then((val) => {
+//             dataControl = val
+//         })
+// }
+
+//axios
+// function getData() {
+//     axios.get("https://jsonplaceholder.typicode.com/posts").then((res) => {
+//         if (res.status === 200) {
+//             console.log("başarılı")
+//             return res
+//         } else {
+//             console.log("başarısız")
+//             return res
+//         }
+//     })
+// }
+
+//async
+// async function getData() {
+//     const result = await axios.get("https://jsonplaceholder.typicode.com/posts");
+//     console.log(result.status)
+// }
+
+getData()
